@@ -1,0 +1,36 @@
+{
+  "name": "astro-luminary",
+  "version": "1.0.0",
+  "description": "astrology profile and information app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "db:reset": "npx sequelize-cli db:drop && npx sequelize-cli db:create && npx sequelize-cli db:migrate && npx sequelize-cli db:seed:all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitsufox9/astro-luminary.git"
+  },
+  "keywords": [
+    "astrology",
+    "horoscope",
+    "zodiac",
+    "personality"
+  ],
+  "author": "Christina Fox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kitsufox9/astro-luminary/issues"
+  },
+  "homepage": "https://github.com/kitsufox9/astro-luminary#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.4",
+    "pg": "^7.12.1",
+    "sequelize": "^5.21.1",
+    "sequelize-cli": "^5.5.1"
+  }
+}
