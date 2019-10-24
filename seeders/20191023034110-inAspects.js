@@ -3900,6 +3900,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Saturn square Ascendant",
+        natal_planet_id: 7,
+        natal_aspect_id: 3,
+        natal_to_planet: "Ascendant",
+        natal_orb: 7.5,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Saturn square Midheaven",
+        natal_planet_id: 7,
+        natal_aspect_id: 3,
+        natal_to_planet: "Midheaven",
+        natal_orb: 7.5,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Uranus square Neptune",
         natal_planet_id: 8,
         natal_aspect_id: 3,
@@ -3980,7 +3998,25 @@ module.exports = {
         natal_aspect_description: "TEXT",
         createdAt: new Date(),
         updatedAt: new Date()
-      },  {
+      }, {
+        natal_aspect_title: "Uranus square Ascendant",
+        natal_planet_id: 8,
+        natal_aspect_id: 3,
+        natal_to_planet: "Ascendant",
+        natal_orb: 7.5,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Uranus square Midheaven",
+        natal_planet_id: 8,
+        natal_aspect_id: 3,
+        natal_to_planet: "Midheaven",
+        natal_orb: 7.5,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Neptune square Pluto",
         natal_planet_id: 9,
         natal_aspect_id: 3,
@@ -4053,6 +4089,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Neptune square Ascendant",
+        natal_planet_id: 9,
+        natal_aspect_id: 3,
+        natal_to_planet: "Ascendant",
+        natal_orb: 7.5,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Neptune square Midheaven",
+        natal_planet_id: 9,
+        natal_aspect_id: 3,
+        natal_to_planet: "Midheaven",
+        natal_orb: 7.5,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Pluto square Chiron",
         natal_planet_id: 10,
         natal_aspect_id: 3,
@@ -4116,6 +4170,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Pluto square Ascendant",
+        natal_planet_id: 10,
+        natal_aspect_id: 3,
+        natal_to_planet: "Ascendant",
+        natal_orb: 7.5,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Pluto square Midheaven",
+        natal_planet_id: 10,
+        natal_aspect_id: 3,
+        natal_to_planet: "Midheaven",
+        natal_orb: 7.5,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Chiron square North Node",
         natal_planet_id: 11,
         natal_aspect_id: 3,
@@ -4170,6 +4242,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Chiron square Ascendant",
+        natal_planet_id: 11,
+        natal_aspect_id: 3,
+        natal_to_planet: "Ascendant",
+        natal_orb: 7.5,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Chiron square Midheaven",
+        natal_planet_id: 11,
+        natal_aspect_id: 3,
+        natal_to_planet: "Midheaven",
+        natal_orb: 7.5,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "North Node square Ceres",
         natal_planet_id: 12,
         natal_aspect_id: 3,
@@ -4206,6 +4296,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "North Node square Ascendant",
+        natal_planet_id: 12,
+        natal_aspect_id: 3,
+        natal_to_planet: "Ascendant",
+        natal_orb: 7.5,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "North Node square Midheaven",
+        natal_planet_id: 12,
+        natal_aspect_id: 3,
+        natal_to_planet: "Midheaven",
+        natal_orb: 7.5,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "South Node square Pallas Athene",
         natal_planet_id: 13,
         natal_aspect_id: 3,
@@ -4228,6 +4336,24 @@ module.exports = {
         natal_planet_id: 13,
         natal_aspect_id: 3,
         natal_to_planet: "Vesta",
+        natal_orb: 7.5,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "South Node square Ascendant",
+        natal_planet_id: 13,
+        natal_aspect_id: 3,
+        natal_to_planet: "Ascendant",
+        natal_orb: 7.5,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "South Node square Midheaven",
+        natal_planet_id: 13,
+        natal_aspect_id: 3,
+        natal_to_planet: "Midheaven",
         natal_orb: 7.5,
         natal_aspect_description: "TEXT",
         createdAt: new Date(),
@@ -4260,6 +4386,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Ceres square Ascendant",
+        natal_planet_id: 14,
+        natal_aspect_id: 3,
+        natal_to_planet: "Ascendant",
+        natal_orb: 7.5,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Ceres square Midheaven",
+        natal_planet_id: 14,
+        natal_aspect_id: 3,
+        natal_to_planet: "Midheaven",
+        natal_orb: 7.5,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Pallas Athene square Juno",
         natal_planet_id: 15,
         natal_aspect_id: 3,
@@ -4278,10 +4422,46 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Pallas Athene square Ascendant",
+        natal_planet_id: 15,
+        natal_aspect_id: 3,
+        natal_to_planet: "Ascendant",
+        natal_orb: 7.5,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Pallas Athene square Midheaven",
+        natal_planet_id: 15,
+        natal_aspect_id: 3,
+        natal_to_planet: "Midheaven",
+        natal_orb: 7.5,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Juno square Vesta",
         natal_planet_id: 16,
         natal_aspect_id: 3,
         natal_to_planet: "Vesta",
+        natal_orb: 7.5,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Juno square Ascendant",
+        natal_planet_id: 16,
+        natal_aspect_id: 3,
+        natal_to_planet: "Ascendant",
+        natal_orb: 7.5,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Juno square Midheaven",
+        natal_planet_id: 16,
+        natal_aspect_id: 3,
+        natal_to_planet: "Midheaven",
         natal_orb: 7.5,
         natal_aspect_description: "TEXT",
         createdAt: new Date(),
@@ -4431,6 +4611,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Sun trine Ascendant",
+        natal_planet_id: 1,
+        natal_aspect_id: 4,
+        natal_to_planet: "Ascendant",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Sun trine Midheaven",
+        natal_planet_id: 1,
+        natal_aspect_id: 4,
+        natal_to_planet: "Midheaven",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Moon trine Mercury",
         natal_planet_id: 2,
         natal_aspect_id: 4,
@@ -4566,6 +4764,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Moon trine Ascendant",
+        natal_planet_id: 2,
+        natal_aspect_id: 4,
+        natal_to_planet: "Ascendant",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Moon trine Midheaven",
+        natal_planet_id: 2,
+        natal_aspect_id: 4,
+        natal_to_planet: "Vesta",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Mercury trine Venus",
         natal_planet_id: 3,
         natal_aspect_id: 4,
@@ -4692,6 +4908,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Mercury trine Ascendant",
+        natal_planet_id: 3,
+        natal_aspect_id: 4,
+        natal_to_planet: "Ascendant",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Mercury trine Midheaven",
+        natal_planet_id: 3,
+        natal_aspect_id: 4,
+        natal_to_planet: "Midheaven",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Venus trine Mars",
         natal_planet_id: 4,
         natal_aspect_id: 4,
@@ -4809,6 +5043,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Venus trine Ascendant",
+        natal_planet_id: 4,
+        natal_aspect_id: 4,
+        natal_to_planet: "Ascendant",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Venus trine Midheaven",
+        natal_planet_id: 4,
+        natal_aspect_id: 4,
+        natal_to_planet: "Midheaven",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Mars trine Jupiter",
         natal_planet_id: 5,
         natal_aspect_id: 4,
@@ -4917,6 +5169,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Mars trine Ascendant",
+        natal_planet_id: 5,
+        natal_aspect_id: 4,
+        natal_to_planet: "Ascendant",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Mars trine Midheaven",
+        natal_planet_id: 5,
+        natal_aspect_id: 4,
+        natal_to_planet: "Midheaven",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Jupiter trine Saturn",
         natal_planet_id: 6,
         natal_aspect_id: 4,
@@ -5016,6 +5286,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Jupiter trine Ascendant",
+        natal_planet_id: 6,
+        natal_aspect_id: 4,
+        natal_to_planet: "Ascendant",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Jupiter trine Midheaven",
+        natal_planet_id: 6,
+        natal_aspect_id: 4,
+        natal_to_planet: "Midheaven",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Saturn trine Uranus",
         natal_planet_id: 7,
         natal_aspect_id: 4,
@@ -5106,6 +5394,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Saturn trine Ascendant",
+        natal_planet_id: 7,
+        natal_aspect_id: 4,
+        natal_to_planet: "Ascendant",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Saturn trine Midheaven",
+        natal_planet_id: 7,
+        natal_aspect_id: 4,
+        natal_to_planet: "Midheaven",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Uranus trine Neptune",
         natal_planet_id: 8,
         natal_aspect_id: 4,
@@ -5186,7 +5492,25 @@ module.exports = {
         natal_aspect_description: "TEXT",
         createdAt: new Date(),
         updatedAt: new Date()
-      },  {
+      }, {
+        natal_aspect_title: "Uranus trine Ascendant",
+        natal_planet_id: 8,
+        natal_aspect_id: 4,
+        natal_to_planet: "Ascendant",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Uranus trine Midheaven",
+        natal_planet_id: 8,
+        natal_aspect_id: 4,
+        natal_to_planet: "Midheaven",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Neptune trine Pluto",
         natal_planet_id: 9,
         natal_aspect_id: 4,
@@ -5259,6 +5583,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Neptune trine Ascendant",
+        natal_planet_id: 9,
+        natal_aspect_id: 4,
+        natal_to_planet: "Ascendant",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Neptune trine Midheaven",
+        natal_planet_id: 9,
+        natal_aspect_id: 4,
+        natal_to_planet: "Midheaven",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Pluto trine Chiron",
         natal_planet_id: 10,
         natal_aspect_id: 4,
@@ -5322,6 +5664,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Pluto trine Ascendant",
+        natal_planet_id: 10,
+        natal_aspect_id: 4,
+        natal_to_planet: "Ascendant",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Pluto trine Midheaven",
+        natal_planet_id: 10,
+        natal_aspect_id: 4,
+        natal_to_planet: "Midheaven",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Chiron trine North Node",
         natal_planet_id: 11,
         natal_aspect_id: 4,
@@ -5376,6 +5736,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Chiron trine Ascendant",
+        natal_planet_id: 11,
+        natal_aspect_id: 4,
+        natal_to_planet: "Ascendant",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Chiron trine Midheaven",
+        natal_planet_id: 11,
+        natal_aspect_id: 4,
+        natal_to_planet: "Midheaven",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "North Node trine Ceres",
         natal_planet_id: 12,
         natal_aspect_id: 4,
@@ -5412,6 +5790,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "North Node trine Ascendant",
+        natal_planet_id: 12,
+        natal_aspect_id: 4,
+        natal_to_planet: "Ascendant",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "North Node trine Midheaven",
+        natal_planet_id: 12,
+        natal_aspect_id: 4,
+        natal_to_planet: "Midheaven",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "South Node trine Pallas Athene",
         natal_planet_id: 13,
         natal_aspect_id: 4,
@@ -5434,6 +5830,24 @@ module.exports = {
         natal_planet_id: 13,
         natal_aspect_id: 4,
         natal_to_planet: "Vesta",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "South Node trine Ascendant",
+        natal_planet_id: 13,
+        natal_aspect_id: 4,
+        natal_to_planet: "Ascendant",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "South Node trine Midheaven",
+        natal_planet_id: 13,
+        natal_aspect_id: 4,
+        natal_to_planet: "Midheaven",
         natal_orb: 8.3,
         natal_aspect_description: "TEXT",
         createdAt: new Date(),
@@ -5466,6 +5880,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Ceres trine Ascendant",
+        natal_planet_id: 14,
+        natal_aspect_id: 4,
+        natal_to_planet: "Ascendant",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Ceres trine Midheaven",
+        natal_planet_id: 14,
+        natal_aspect_id: 4,
+        natal_to_planet: "Midheaven",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Pallas Athene trine Juno",
         natal_planet_id: 15,
         natal_aspect_id: 4,
@@ -5484,10 +5916,46 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Pallas Athene trine Ascendant",
+        natal_planet_id: 15,
+        natal_aspect_id: 4,
+        natal_to_planet: "Ascendant",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Pallas Athene trine Midheaven",
+        natal_planet_id: 15,
+        natal_aspect_id: 4,
+        natal_to_planet: "Midheaven",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Juno trine Vesta",
         natal_planet_id: 16,
         natal_aspect_id: 4,
         natal_to_planet: "Vesta",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Juno trine Ascendant",
+        natal_planet_id: 16,
+        natal_aspect_id: 4,
+        natal_to_planet: "Ascendant",
+        natal_orb: 8.3,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Juno trine Midheaven",
+        natal_planet_id: 16,
+        natal_aspect_id: 4,
+        natal_to_planet: "Midheaven",
         natal_orb: 8.3,
         natal_aspect_description: "TEXT",
         createdAt: new Date(),
@@ -5637,6 +6105,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Sun opposition Ascendant",
+        natal_planet_id: 1,
+        natal_aspect_id: 1,
+        natal_to_planet: "Ascendant",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Sun opposition Midheaven",
+        natal_planet_id: 1,
+        natal_aspect_id: 1,
+        natal_to_planet: "Midheaven",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Moon opposition Mercury",
         natal_planet_id: 2,
         natal_aspect_id: 1,
@@ -5772,6 +6258,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Moon opposition Ascendant",
+        natal_planet_id: 2,
+        natal_aspect_id: 1,
+        natal_to_planet: "Ascendant",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Moon opposition Midheaven",
+        natal_planet_id: 2,
+        natal_aspect_id: 1,
+        natal_to_planet: "Midheaven",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Mercury opposition Venus",
         natal_planet_id: 3,
         natal_aspect_id: 1,
@@ -5898,6 +6402,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Mercury opposition Ascendant",
+        natal_planet_id: 3,
+        natal_aspect_id: 1,
+        natal_to_planet: "Ascendant",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Mercury opposition Midheaven",
+        natal_planet_id: 3,
+        natal_aspect_id: 1,
+        natal_to_planet: "Midheaven",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Venus opposition Mars",
         natal_planet_id: 4,
         natal_aspect_id: 1,
@@ -6015,6 +6537,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Venus opposition Ascendant",
+        natal_planet_id: 4,
+        natal_aspect_id: 1,
+        natal_to_planet: "Ascendant",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Venus opposition Midheaven",
+        natal_planet_id: 4,
+        natal_aspect_id: 1,
+        natal_to_planet: "Midheaven",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Mars opposition Jupiter",
         natal_planet_id: 5,
         natal_aspect_id: 1,
@@ -6123,6 +6663,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Mars opposition Ascendant",
+        natal_planet_id: 5,
+        natal_aspect_id: 1,
+        natal_to_planet: "Ascendant",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Mars opposition Midheaven",
+        natal_planet_id: 5,
+        natal_aspect_id: 1,
+        natal_to_planet: "Midheaven",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Jupiter opposition Saturn",
         natal_planet_id: 6,
         natal_aspect_id: 1,
@@ -6222,6 +6780,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Jupiter opposition Ascendant",
+        natal_planet_id: 6,
+        natal_aspect_id: 1,
+        natal_to_planet: "Ascendant",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Jupiter opposition Midheaven",
+        natal_planet_id: 6,
+        natal_aspect_id: 1,
+        natal_to_planet: "Midheaven",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Saturn opposition Uranus",
         natal_planet_id: 7,
         natal_aspect_id: 1,
@@ -6312,6 +6888,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Saturn opposition Ascendant",
+        natal_planet_id: 7,
+        natal_aspect_id: 1,
+        natal_to_planet: "Ascendant",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Saturn opposition Midheaven",
+        natal_planet_id: 7,
+        natal_aspect_id: 5,
+        natal_to_planet: "Midheaven",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Uranus opposition Neptune",
         natal_planet_id: 8,
         natal_aspect_id: 5,
@@ -6392,7 +6986,25 @@ module.exports = {
         natal_aspect_description: "TEXT",
         createdAt: new Date(),
         updatedAt: new Date()
-      },  {
+      }, {
+        natal_aspect_title: "Uranus opposition Ascendant",
+        natal_planet_id: 8,
+        natal_aspect_id: 5,
+        natal_to_planet: "Ascendant",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Uranus opposition Midheaven",
+        natal_planet_id: 8,
+        natal_aspect_id: 5,
+        natal_to_planet: "Midheaven",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Neptune opposition Pluto",
         natal_planet_id: 9,
         natal_aspect_id: 5,
@@ -6460,6 +7072,24 @@ module.exports = {
         natal_planet_id: 9,
         natal_aspect_id: 5,
         natal_to_planet: "Vesta",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Neptune opposition Ascendant",
+        natal_planet_id: 9,
+        natal_aspect_id: 5,
+        natal_to_planet: "Ascendant",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Neptune opposition Midheaven",
+        natal_planet_id: 9,
+        natal_aspect_id: 5,
+        natal_to_planet: "Midheaven",
         natal_orb: 10,
         natal_aspect_description: "TEXT",
         createdAt: new Date(),
@@ -6582,6 +7212,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Chiron opposition Ascendant",
+        natal_planet_id: 11,
+        natal_aspect_id: 5,
+        natal_to_planet: "Ascendant",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Chiron opposition Midheaven",
+        natal_planet_id: 11,
+        natal_aspect_id: 5,
+        natal_to_planet: "Midheaven",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "North Node opposition Ceres",
         natal_planet_id: 12,
         natal_aspect_id: 5,
@@ -6618,6 +7266,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "North Node opposition Ascendant",
+        natal_planet_id: 12,
+        natal_aspect_id: 5,
+        natal_to_planet: "Ascendant",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "North Node opposition Midheaven",
+        natal_planet_id: 12,
+        natal_aspect_id: 5,
+        natal_to_planet: "Midheaven",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "South Node opposition Pallas Athene",
         natal_planet_id: 13,
         natal_aspect_id: 5,
@@ -6640,6 +7306,24 @@ module.exports = {
         natal_planet_id: 13,
         natal_aspect_id: 5,
         natal_to_planet: "Vesta",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "South Node opposition Ascendant",
+        natal_planet_id: 13,
+        natal_aspect_id: 5,
+        natal_to_planet: "Ascendant",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "South Node opposition Midheaven",
+        natal_planet_id: 13,
+        natal_aspect_id: 5,
+        natal_to_planet: "Midheaven",
         natal_orb: 10,
         natal_aspect_description: "TEXT",
         createdAt: new Date(),
@@ -6672,6 +7356,24 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Ceres opposition Ascendant",
+        natal_planet_id: 14,
+        natal_aspect_id: 5,
+        natal_to_planet: "Ascendant",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Ceres opposition Midheaven",
+        natal_planet_id: 14,
+        natal_aspect_id: 5,
+        natal_to_planet: "Midheaven",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Pallas Athene opposition Juno",
         natal_planet_id: 15,
         natal_aspect_id: 5,
@@ -6690,10 +7392,46 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        natal_aspect_title: "Pallas Athene opposition Ascendant",
+        natal_planet_id: 15,
+        natal_aspect_id: 5,
+        natal_to_planet: "Ascendant",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Pallas Athene opposition Midheaven",
+        natal_planet_id: 15,
+        natal_aspect_id: 5,
+        natal_to_planet: "Midheaven",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         natal_aspect_title: "Juno opposition Vesta",
         natal_planet_id: 16,
         natal_aspect_id: 5,
         natal_to_planet: "Vesta",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Juno opposition Ascendant",
+        natal_planet_id: 16,
+        natal_aspect_id: 5,
+        natal_to_planet: "Ascendant",
+        natal_orb: 10,
+        natal_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        natal_aspect_title: "Juno opposition Midheaven",
+        natal_planet_id: 16,
+        natal_aspect_id: 5,
+        natal_to_planet: "Midheaven",
         natal_orb: 10,
         natal_aspect_description: "TEXT",
         createdAt: new Date(),
