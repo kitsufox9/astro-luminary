@@ -156,6 +156,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Sun conjunct Ascendant",
+        synastry_aspect_planet_id: 1,
+        synastry_aspect_id: 1,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 10,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Moon conjunct Moon",
         synastry_aspect_planet_id: 2,
         synastry_aspect_id: 1,
@@ -300,6 +309,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Moon conjunct Ascendant",
+        synastry_aspect_planet_id: 2,
+        synastry_aspect_id: 1,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 10,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Mercury conjunct Mercury",
         synastry_aspect_planet_id: 3,
         synastry_aspect_id: 1,
@@ -435,6 +453,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Mercury conjunct Ascendant",
+        synastry_aspect_planet_id: 3,
+        synastry_aspect_id: 1,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 10,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Venus conjunct Venus",
         synastry_aspect_planet_id: 4,
         synastry_aspect_id: 1,
@@ -561,6 +588,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Venus conjunct Ascendant",
+        synastry_aspect_planet_id: 4,
+        synastry_aspect_id: 1,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 10,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Mars conjunct Mars",
         synastry_aspect_planet_id: 5,
         synastry_aspect_id: 1,
@@ -678,6 +714,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Mars conjunct Ascendant",
+        synastry_aspect_planet_id: 5,
+        synastry_aspect_id: 1,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 10,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Jupiter conjunct Jupiter",
         synastry_aspect_planet_id: 6,
         synastry_aspect_id: 1,
@@ -786,6 +831,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Jupiter conjunct Ascendant",
+        synastry_aspect_planet_id: 6,
+        synastry_aspect_id: 1,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 10,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Saturn conjunct Saturn",
         synastry_aspect_planet_id: 7,
         synastry_aspect_id: 1,
@@ -885,6 +939,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Saturn conjunct Ascendant",
+        synastry_aspect_planet_id: 7,
+        synastry_aspect_id: 1,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 10,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Uranus conjunct Uranus",
         synastry_aspect_planet_id: 8,
         synastry_aspect_id: 1,
@@ -975,6 +1038,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Uranus conjunct Ascendant",
+        synastry_aspect_planet_id: 8,
+        synastry_aspect_id: 1,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 10,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Neptune conjunct Neptune",
         synastry_aspect_planet_id: 9,
         synastry_aspect_id: 1,
@@ -1056,6 +1128,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Neptune conjunct Ascendant",
+        synastry_aspect_planet_id: 9,
+        synastry_aspect_id: 1,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 10,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Pluto conjunct Pluto",
         synastry_aspect_planet_id: 10,
         synastry_aspect_id: 1,
@@ -1128,6 +1209,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Pluto conjunct Ascendant",
+        synastry_aspect_planet_id: 10,
+        synastry_aspect_id: 1,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 10,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Chiron conjunct Chiron",
         synastry_aspect_planet_id: 11,
         synastry_aspect_id: 1,
@@ -1191,6 +1281,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Chiron conjunct Ascendant",
+        synastry_aspect_planet_id: 11,
+        synastry_aspect_id: 1,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 10,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "North Node conjunct North Node",
         synastry_aspect_planet_id: 12,
         synastry_aspect_id: 1,
@@ -1236,6 +1335,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "North Node conjunct Ascendant",
+        synastry_aspect_planet_id: 12,
+        synastry_aspect_id: 1,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 10,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "South Node conjunct Pallas Athene",
         synastry_aspect_planet_id: 13,
         synastry_aspect_id: 1,
@@ -1258,6 +1366,15 @@ module.exports = {
         synastry_aspect_planet_id: 13,
         synastry_aspect_id: 1,
         synastry_to_planet: "Vesta",
+        synastry_orb: 10,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        synastry_aspect_title: "South Node conjunct Ascendant",
+        synastry_aspect_planet_id: 13,
+        synastry_aspect_id: 1,
+        synastry_to_planet: "Ascendant",
         synastry_orb: 10,
         synastry_aspect_description: "TEXT",
         createdAt: new Date(),
@@ -1299,6 +1416,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Ceres conjunct Ascendant",
+        synastry_aspect_planet_id: 14,
+        synastry_aspect_id: 1,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 10,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Pallas Athene conjunct Pallas Athene",
         synastry_aspect_planet_id: 15,
         synastry_aspect_id: 1,
@@ -1326,6 +1452,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Pallas Athene conjunct Ascendant",
+        synastry_aspect_planet_id: 15,
+        synastry_aspect_id: 1,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 10,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Juno conjunct Juno",
         synastry_aspect_planet_id: 16,
         synastry_aspect_id: 1,
@@ -1343,7 +1478,16 @@ module.exports = {
         synastry_aspect_description: "TEXT",
         createdAt: new Date(),
         updatedAt: new Date()
-      },{
+      }, {
+        synastry_aspect_title: "Juno conjunct Ascendant",
+        synastry_aspect_planet_id: 16,
+        synastry_aspect_id: 1,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 10,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Vesta conjunct Vesta",
         synastry_aspect_planet_id: 17,
         synastry_aspect_id: 1,
@@ -1352,7 +1496,16 @@ module.exports = {
         synastry_aspect_description: "TEXT",
         createdAt: new Date(),
         updatedAt: new Date()
-      },  {
+      }, {
+        synastry_aspect_title: "Vesta conjunct Ascendant",
+        synastry_aspect_planet_id: 17,
+        synastry_aspect_id: 1,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 10,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Sun sextile Sun",
         synastry_aspect_planet_id: 1,
         synastry_aspect_id: 2,
@@ -1506,6 +1659,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Sun sextile Ascendant",
+        synastry_aspect_planet_id: 1,
+        synastry_aspect_id: 2,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 4.5,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Moon sextile Moon",
         synastry_aspect_planet_id: 2,
         synastry_aspect_id: 2,
@@ -1650,6 +1812,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Moon sextile Ascendant",
+        synastry_aspect_planet_id: 2,
+        synastry_aspect_id: 2,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 4.5,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Mercury sextile Mercury",
         synastry_aspect_planet_id: 3,
         synastry_aspect_id: 2,
@@ -1785,6 +1956,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Mercury sextile Ascendant",
+        synastry_aspect_planet_id: 3,
+        synastry_aspect_id: 2,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 4.5,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Venus sextile Venus",
         synastry_aspect_planet_id: 4,
         synastry_aspect_id: 2,
@@ -1911,6 +2091,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Venus sextile Ascendant",
+        synastry_aspect_planet_id: 4,
+        synastry_aspect_id: 2,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 4.5,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Mars sextile Mars",
         synastry_aspect_planet_id: 5,
         synastry_aspect_id: 2,
@@ -2028,6 +2217,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Mars sextile Ascendant",
+        synastry_aspect_planet_id: 5,
+        synastry_aspect_id: 2,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 4.5,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Jupiter sextile Jupiter",
         synastry_aspect_planet_id: 6,
         synastry_aspect_id: 2,
@@ -2136,6 +2334,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Jupiter sextile Ascendant",
+        synastry_aspect_planet_id: 6,
+        synastry_aspect_id: 2,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 4.5,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Saturn sextile Saturn",
         synastry_aspect_planet_id: 7,
         synastry_aspect_id: 2,
@@ -2235,6 +2442,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Saturn sextile Ascendant",
+        synastry_aspect_planet_id: 7,
+        synastry_aspect_id: 2,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 4.5,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Uranus sextile Uranus",
         synastry_aspect_planet_id: 8,
         synastry_aspect_id: 2,
@@ -2324,7 +2540,16 @@ module.exports = {
         synastry_aspect_description: "TEXT",
         createdAt: new Date(),
         updatedAt: new Date()
-      },  {
+      }, {
+        synastry_aspect_title: "Uranus sextile Ascendant",
+        synastry_aspect_planet_id: 8,
+        synastry_aspect_id: 2,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 4.5,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Neptune sextile Neptune",
         synastry_aspect_planet_id: 9,
         synastry_aspect_id: 2,
@@ -2406,6 +2631,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Neptune sextile Ascendant",
+        synastry_aspect_planet_id: 9,
+        synastry_aspect_id: 2,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 4.5,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Pluto sextile Pluto",
         synastry_aspect_planet_id: 10,
         synastry_aspect_id: 2,
@@ -2478,6 +2712,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Pluto sextile Ascendant",
+        synastry_aspect_planet_id: 10,
+        synastry_aspect_id: 2,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 4.5,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Chiron sextile Chiron",
         synastry_aspect_planet_id: 11,
         synastry_aspect_id: 2,
@@ -2541,6 +2784,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Chiron sextile Ascendant",
+        synastry_aspect_planet_id: 11,
+        synastry_aspect_id: 2,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 4.5,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "North Node sextile North Node",
         synastry_aspect_planet_id: 12,
         synastry_aspect_id: 2,
@@ -2586,6 +2838,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "North Node sextile Ascendant",
+        synastry_aspect_planet_id: 12,
+        synastry_aspect_id: 2,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 4.5,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "South Node sextile Pallas Athene",
         synastry_aspect_planet_id: 13,
         synastry_aspect_id: 2,
@@ -2612,7 +2873,16 @@ module.exports = {
         synastry_aspect_description: "TEXT",
         createdAt: new Date(),
         updatedAt: new Date()
-      },{
+      }, {
+        synastry_aspect_title: "South Node sextile Ascendant",
+        synastry_aspect_planet_id: 13,
+        synastry_aspect_id: 2,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 4.5,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Ceres sextile Ceres",
         synastry_aspect_planet_id: 14,
         synastry_aspect_id: 2,
@@ -2649,6 +2919,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Ceres sextile Ascendant",
+        synastry_aspect_planet_id: 14,
+        synastry_aspect_id: 2,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 4.5,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Pallas Athene sextile Pallas Athene",
         synastry_aspect_planet_id: 15,
         synastry_aspect_id: 2,
@@ -2676,6 +2955,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Pallas Athene sextile Ascendant",
+        synastry_aspect_planet_id: 15,
+        synastry_aspect_id: 2,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 4.5,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Juno sextile Juno",
         synastry_aspect_planet_id: 16,
         synastry_aspect_id: 2,
@@ -2693,11 +2981,29 @@ module.exports = {
         synastry_aspect_description: "TEXT",
         createdAt: new Date(),
         updatedAt: new Date()
-      },{
+      }, {
+        synastry_aspect_title: "Juno sextile Ascendant",
+        synastry_aspect_planet_id: 16,
+        synastry_aspect_id: 2,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 4.5,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Vesta sextile Vesta",
         synastry_aspect_planet_id: 17,
         synastry_aspect_id: 2,
         synastry_to_planet: "Vesta",
+        synastry_orb: 4.5,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        synastry_aspect_title: "Vesta sextile Ascendant",
+        synastry_aspect_planet_id: 17,
+        synastry_aspect_id: 2,
+        synastry_to_planet: "Ascendant",
         synastry_orb: 4.5,
         synastry_aspect_description: "TEXT",
         createdAt: new Date(),
@@ -2856,6 +3162,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Sun square Ascendant",
+        synastry_aspect_planet_id: 1,
+        synastry_aspect_id: 3,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Moon square Moon",
         synastry_aspect_planet_id: 2,
         synastry_aspect_id: 3,
@@ -3000,6 +3315,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Moon square Ascendant",
+        synastry_aspect_planet_id: 2,
+        synastry_aspect_id: 3,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Mercury square Mercury",
         synastry_aspect_planet_id: 3,
         synastry_aspect_id: 3,
@@ -3135,6 +3459,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Mercury square Ascendant",
+        synastry_aspect_planet_id: 3,
+        synastry_aspect_id: 3,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Venus square Venus",
         synastry_aspect_planet_id: 4,
         synastry_aspect_id: 3,
@@ -3261,6 +3594,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Venus square Ascendant",
+        synastry_aspect_planet_id: 4,
+        synastry_aspect_id: 3,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Mars square Mars",
         synastry_aspect_planet_id: 5,
         synastry_aspect_id: 3,
@@ -3378,6 +3720,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Mars square Ascendant",
+        synastry_aspect_planet_id: 5,
+        synastry_aspect_id: 3,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Jupiter square Jupiter",
         synastry_aspect_planet_id: 6,
         synastry_aspect_id: 3,
@@ -3486,6 +3837,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Jupiter square Ascendant",
+        synastry_aspect_planet_id: 6,
+        synastry_aspect_id: 3,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Saturn square Saturn",
         synastry_aspect_planet_id: 7,
         synastry_aspect_id: 3,
@@ -3585,6 +3945,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Saturn square Ascendant",
+        synastry_aspect_planet_id: 7,
+        synastry_aspect_id: 3,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Uranus square Uranus",
         synastry_aspect_planet_id: 8,
         synastry_aspect_id: 3,
@@ -3674,7 +4043,16 @@ module.exports = {
         synastry_aspect_description: "TEXT",
         createdAt: new Date(),
         updatedAt: new Date()
-      },  {
+      }, {
+        synastry_aspect_title: "Uranus square Ascendant",
+        synastry_aspect_planet_id: 8,
+        synastry_aspect_id: 3,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Neptune square Neptune",
         synastry_aspect_planet_id: 9,
         synastry_aspect_id: 3,
@@ -3756,6 +4134,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Neptune square Ascendant",
+        synastry_aspect_planet_id: 9,
+        synastry_aspect_id: 3,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Pluto square Pluto",
         synastry_aspect_planet_id: 10,
         synastry_aspect_id: 3,
@@ -3828,6 +4215,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Pluto square Ascendant",
+        synastry_aspect_planet_id: 10,
+        synastry_aspect_id: 3,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Chiron square North Node",
         synastry_aspect_planet_id: 11,
         synastry_aspect_id: 3,
@@ -3882,6 +4278,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Chiron square Ascendant",
+        synastry_aspect_planet_id: 11,
+        synastry_aspect_id: 3,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "North Node square North Node",
         synastry_aspect_planet_id: 12,
         synastry_aspect_id: 3,
@@ -3927,6 +4332,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "North Node square Ascendant",
+        synastry_aspect_planet_id: 12,
+        synastry_aspect_id: 3,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "South Node square Ceres",
         synastry_aspect_planet_id: 13,
         synastry_aspect_id: 3,
@@ -3962,7 +4376,16 @@ module.exports = {
         synastry_aspect_description: "TEXT",
         createdAt: new Date(),
         updatedAt: new Date()
-      },{
+      }, {
+        synastry_aspect_title: "South Node square Ascendant",
+        synastry_aspect_planet_id: 13,
+        synastry_aspect_id: 3,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Ceres square Ceres",
         synastry_aspect_planet_id: 14,
         synastry_aspect_id: 3,
@@ -3999,6 +4422,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Ceres square Ascendant",
+        synastry_aspect_planet_id: 14,
+        synastry_aspect_id: 3,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Pallas Athene square Pallas Athene",
         synastry_aspect_planet_id: 15,
         synastry_aspect_id: 3,
@@ -4026,6 +4458,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Pallas Athene square Ascendant",
+        synastry_aspect_planet_id: 15,
+        synastry_aspect_id: 3,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Juno square Juno",
         synastry_aspect_planet_id: 16,
         synastry_aspect_id: 3,
@@ -4043,11 +4484,29 @@ module.exports = {
         synastry_aspect_description: "TEXT",
         createdAt: new Date(),
         updatedAt: new Date()
-      },{
+      }, {
+        synastry_aspect_title: "Juno square Ascendant",
+        synastry_aspect_planet_id: 16,
+        synastry_aspect_id: 3,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Vesta square Vesta",
         synastry_aspect_planet_id: 17,
         synastry_aspect_id: 3,
         synastry_to_planet: "Vesta",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        synastry_aspect_title: "Vesta square Ascendant",
+        synastry_aspect_planet_id: 17,
+        synastry_aspect_id: 3,
+        synastry_to_planet: "Ascendant",
         synastry_orb: 6,
         synastry_aspect_description: "TEXT",
         createdAt: new Date(),
@@ -4197,10 +4656,10 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
-        synastry_aspect_title: "Sun trine Vesta",
+        synastry_aspect_title: "Sun trine Ascendant",
         synastry_aspect_planet_id: 1,
         synastry_aspect_id: 4,
-        synastry_to_planet: "Vesta",
+        synastry_to_planet: "Ascendant",
         synastry_orb: 6,
         synastry_aspect_description: "TEXT",
         createdAt: new Date(),
@@ -4350,6 +4809,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Moon trine Ascendant",
+        synastry_aspect_planet_id: 2,
+        synastry_aspect_id: 4,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Mercury trine Mercury",
         synastry_aspect_planet_id: 3,
         synastry_aspect_id: 4,
@@ -4485,6 +4953,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Mercury trine Ascendant",
+        synastry_aspect_planet_id: 3,
+        synastry_aspect_id: 4,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Venus trine Venus",
         synastry_aspect_planet_id: 4,
         synastry_aspect_id: 4,
@@ -4611,6 +5088,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Venus trine Ascendant",
+        synastry_aspect_planet_id: 4,
+        synastry_aspect_id: 4,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Mars trine Mars",
         synastry_aspect_planet_id: 5,
         synastry_aspect_id: 4,
@@ -4728,6 +5214,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Mars trine Ascendant",
+        synastry_aspect_planet_id: 5,
+        synastry_aspect_id: 4,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Jupiter trine Jupiter",
         synastry_aspect_planet_id: 6,
         synastry_aspect_id: 4,
@@ -4836,6 +5331,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Jupiter trine Ascendant",
+        synastry_aspect_planet_id: 6,
+        synastry_aspect_id: 4,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Saturn trine Saturn",
         synastry_aspect_planet_id: 7,
         synastry_aspect_id: 4,
@@ -4935,6 +5439,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Saturn trine Ascendant",
+        synastry_aspect_planet_id: 7,
+        synastry_aspect_id: 4,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Uranus trine Uranus",
         synastry_aspect_planet_id: 8,
         synastry_aspect_id: 4,
@@ -5024,7 +5537,16 @@ module.exports = {
         synastry_aspect_description: "TEXT",
         createdAt: new Date(),
         updatedAt: new Date()
-      },  {
+      }, {
+        synastry_aspect_title: "Uranus trine Ascendant",
+        synastry_aspect_planet_id: 8,
+        synastry_aspect_id: 4,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Neptune trine Neptune",
         synastry_aspect_planet_id: 9,
         synastry_aspect_id: 4,
@@ -5106,6 +5628,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Neptune trine Ascendant",
+        synastry_aspect_planet_id: 9,
+        synastry_aspect_id: 4,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Pluto trine Pluto",
         synastry_aspect_planet_id: 10,
         synastry_aspect_id: 4,
@@ -5178,6 +5709,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Pluto trine Ascendant",
+        synastry_aspect_planet_id: 10,
+        synastry_aspect_id: 4,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Chiron trine Chiron",
         synastry_aspect_planet_id: 11,
         synastry_aspect_id: 4,
@@ -5241,6 +5781,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Chiron trine Ascendant",
+        synastry_aspect_planet_id: 11,
+        synastry_aspect_id: 4,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "North Node trine North Node",
         synastry_aspect_planet_id: 12,
         synastry_aspect_id: 4,
@@ -5286,6 +5835,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "North Node trine Ascendant",
+        synastry_aspect_planet_id: 12,
+        synastry_aspect_id: 4,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "South Node trine Pallas Athene",
         synastry_aspect_planet_id: 13,
         synastry_aspect_id: 4,
@@ -5308,6 +5866,15 @@ module.exports = {
         synastry_aspect_planet_id: 13,
         synastry_aspect_id: 4,
         synastry_to_planet: "Vesta",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        synastry_aspect_title: "South Node trine Ascendant",
+        synastry_aspect_planet_id: 13,
+        synastry_aspect_id: 4,
+        synastry_to_planet: "Ascendant",
         synastry_orb: 6,
         synastry_aspect_description: "TEXT",
         createdAt: new Date(),
@@ -5349,6 +5916,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Ceres trine Ascendant",
+        synastry_aspect_planet_id: 14,
+        synastry_aspect_id: 4,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Pallas Athene trine Pallas Athene",
         synastry_aspect_planet_id: 15,
         synastry_aspect_id: 4,
@@ -5376,6 +5952,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Pallas Athene trine Ascendant",
+        synastry_aspect_planet_id: 15,
+        synastry_aspect_id: 4,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Juno trine Juno",
         synastry_aspect_planet_id: 16,
         synastry_aspect_id: 4,
@@ -5394,10 +5979,28 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Juno trine Ascendant",
+        synastry_aspect_planet_id: 16,
+        synastry_aspect_id: 4,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Vesta trine Vesta",
         synastry_aspect_planet_id: 17,
         synastry_aspect_id: 4,
         synastry_to_planet: "Vesta",
+        synastry_orb: 6,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        synastry_aspect_title: "Vesta trine Ascendant",
+        synastry_aspect_planet_id: 17,
+        synastry_aspect_id: 4,
+        synastry_to_planet: "Ascendant",
         synastry_orb: 6,
         synastry_aspect_description: "TEXT",
         createdAt: new Date(),
@@ -5556,6 +6159,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Sun opposition Ascendant",
+        synastry_aspect_planet_id: 1,
+        synastry_aspect_id: 5,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 8,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Moon opposition Moon",
         synastry_aspect_planet_id: 2,
         synastry_aspect_id: 5,
@@ -5700,6 +6312,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Moon opposition Ascendant",
+        synastry_aspect_planet_id: 2,
+        synastry_aspect_id: 5,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 8,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Mercury opposition Mercury",
         synastry_aspect_planet_id: 3,
         synastry_aspect_id: 5,
@@ -5835,6 +6456,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Mercury opposition Ascendant",
+        synastry_aspect_planet_id: 3,
+        synastry_aspect_id: 5,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 8,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Venus opposition Venus",
         synastry_aspect_planet_id: 4,
         synastry_aspect_id: 5,
@@ -5961,6 +6591,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Venus opposition Ascendant",
+        synastry_aspect_planet_id: 4,
+        synastry_aspect_id: 5,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 8,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Mars opposition Mars",
         synastry_aspect_planet_id: 5,
         synastry_aspect_id: 5,
@@ -6078,6 +6717,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Mars opposition Ascendant",
+        synastry_aspect_planet_id: 5,
+        synastry_aspect_id: 5,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 8,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Jupiter opposition Jupiter",
         synastry_aspect_planet_id: 6,
         synastry_aspect_id: 5,
@@ -6186,6 +6834,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Jupiter opposition Ascendant",
+        synastry_aspect_planet_id: 6,
+        synastry_aspect_id: 5,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 8,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Saturn opposition Saturn",
         synastry_aspect_planet_id: 7,
         synastry_aspect_id: 5,
@@ -6285,6 +6942,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Saturn opposition Ascendant",
+        synastry_aspect_planet_id: 7,
+        synastry_aspect_id: 5,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 8,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Uranus opposition Uranus",
         synastry_aspect_planet_id: 8,
         synastry_aspect_id: 5,
@@ -6375,6 +7041,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Uranus opposition Ascendant",
+        synastry_aspect_planet_id: 8,
+        synastry_aspect_id: 5,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 8,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Neptune opposition Neptune",
         synastry_aspect_planet_id: 9,
         synastry_aspect_id: 5,
@@ -6456,6 +7131,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Neptune opposition Ascendant",
+        synastry_aspect_planet_id: 9,
+        synastry_aspect_id: 5,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 8,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Pluto opposition Pluto",
         synastry_aspect_planet_id: 10,
         synastry_aspect_id: 5,
@@ -6528,6 +7212,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Pluto opposition Ascendant",
+        synastry_aspect_planet_id: 10,
+        synastry_aspect_id: 5,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 8,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Chiron opposition Chiron",
         synastry_aspect_planet_id: 11,
         synastry_aspect_id: 5,
@@ -6591,6 +7284,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Chiron opposition Ascendant",
+        synastry_aspect_planet_id: 11,
+        synastry_aspect_id: 5,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 8,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "North Node opposition North Node",
         synastry_aspect_planet_id: 12,
         synastry_aspect_id: 5,
@@ -6636,6 +7338,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "North Node opposition Ascendant",
+        synastry_aspect_planet_id: 12,
+        synastry_aspect_id: 5,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 8,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "South Node opposition Pallas Athene",
         synastry_aspect_planet_id: 13,
         synastry_aspect_id: 5,
@@ -6658,6 +7369,15 @@ module.exports = {
         synastry_aspect_planet_id: 13,
         synastry_aspect_id: 5,
         synastry_to_planet: "Vesta",
+        synastry_orb: 8,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
+        synastry_aspect_title: "South Node opposition Ascendant",
+        synastry_aspect_planet_id: 13,
+        synastry_aspect_id: 5,
+        synastry_to_planet: "Ascendant",
         synastry_orb: 8,
         synastry_aspect_description: "TEXT",
         createdAt: new Date(),
@@ -6699,6 +7419,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Ceres opposition Ascendant",
+        synastry_aspect_planet_id: 14,
+        synastry_aspect_id: 5,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 8,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Pallas Athene opposition Pallas Athene",
         synastry_aspect_planet_id: 15,
         synastry_aspect_id: 5,
@@ -6726,6 +7455,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       }, {
+        synastry_aspect_title: "Pallas Athene opposition Ascendant",
+        synastry_aspect_planet_id: 15,
+        synastry_aspect_id: 5,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 8,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Juno opposition Juno",
         synastry_aspect_planet_id: 16,
         synastry_aspect_id: 5,
@@ -6744,6 +7482,15 @@ module.exports = {
         createdAt: new Date(),
         updatedAt: new Date()
       },{
+        synastry_aspect_title: "Juno opposition Ascendant",
+        synastry_aspect_planet_id: 16,
+        synastry_aspect_id: 5,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 8,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
+      }, {
         synastry_aspect_title: "Vesta opposition Vesta",
         synastry_aspect_planet_id: 17,
         synastry_aspect_id: 5,
@@ -6752,8 +7499,16 @@ module.exports = {
         synastry_aspect_description: "TEXT",
         createdAt: new Date(),
         updatedAt: new Date()
+      }, {
+        synastry_aspect_title: "Vesta opposition Ascendant",
+        synastry_aspect_planet_id: 17,
+        synastry_aspect_id: 5,
+        synastry_to_planet: "Ascendant",
+        synastry_orb: 8,
+        synastry_aspect_description: "TEXT",
+        createdAt: new Date(),
+        updatedAt: new Date()
       }
-
     ], {});
   },
 

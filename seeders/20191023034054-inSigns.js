@@ -426,84 +426,84 @@ module.exports = {
         planet_title: "Jupiter in Aries",
         planet_id: 6,
         planet_sign_id: 1,
-        planet_sign_description: "TEXT",
+        planet_sign_description: "Believes in the power of positivity, that life is what you make of it. Loves competition, doing things independently. Values instant results. Attracts the most good fortune when he/she takes the lead, initiates, inspires, and demonstrates enthusiasm and courage.",
         createdAt: new Date(),
         updatedAt: new Date()
       },  {
         planet_title: "Jupiter in Taurus",
         planet_id: 6,
         planet_sign_id: 2,
-        planet_sign_description: "TEXT",
+        planet_sign_description: "Delights in sensual pleasures and wants the good life. A strong feeling of what they are worth attracts success. Good instincts for finances, what things are worth/good products, and investing. Attracts the most “good fortune” when they are charitable, generous but discriminating, and patient. They should watch for over-indulgence.",
         createdAt: new Date(),
         updatedAt: new Date()
       },  {
         planet_title: "Jupiter in Gemini",
         planet_id: 6,
         planet_sign_id: 3,
-        planet_sign_description: "TEXT",
+        planet_sign_description: "Attracts the most good fortune when they use their wit and ingeniousness, are versatile, sociable, curious, and put others at ease with friendliness and sincere curiosity. Values the intellect and sees opportunities to grow and succeed through intellectual, verbal, and written channels. Believes that intelligence and knowledge are the keys to solving problems.",
         createdAt: new Date(),
         updatedAt: new Date()
       },  {
         planet_title: "Jupiter in Cancer",
         planet_id: 6,
         planet_sign_id: 4,
-        planet_sign_description: "TEXT",
+        planet_sign_description: "Attracts the most good fortune when they are sympathetic and charitable. Uses their powers to save and accumulate, and comforts others. Real estate and the food industry can be prosperous avenues. Values tradition and works towards security. Relies mostly on gut instincts when it comes to pursuing goals and business success.",
         createdAt: new Date(),
         updatedAt: new Date()
       },  {
         planet_title: "Jupiter in Leo",
         planet_id: 6,
         planet_sign_id: 5,
-        planet_sign_description: "TEXT",
+        planet_sign_description: "Attracts the most good fortune when they express magnanimity, are generous with others, inspire confidence in those around them, conduct themselves with dignity and sincerity, and avoid the pitfall of excessive egotism. Prosperous areas are creative ones, entertainment, children, and recreation. They take pride in everything they do. Generosity brings success.",
         createdAt: new Date(),
         updatedAt: new Date()
       },  {
         planet_title: "Jupiter in Virgo",
         planet_id: 6,
         planet_sign_id: 6,
-        planet_sign_description: "TEXT",
+        planet_sign_description: "Attracts the most good fortune when they are helpful, honest, orderly, and when they pay attention to details. The service industries, nutrition, and health are prosperous avenues. Practical and technical knowledge and skills are most valued. A real problem solver and others appreciate their help. Doesn’t always feel lucky or especially ambitious. Instead, hard work is valued.",
         createdAt: new Date(),
         updatedAt: new Date()
       },  {
         planet_title: "Jupiter in Libra",
         planet_id: 6,
         planet_sign_id: 7,
-        planet_sign_description: "TEXT",
+        planet_sign_description: "Attracts the most good fortune when they are fair-minded, treat others with equality, are bending and compromising without being a “doormat”, are gracious, and use their talents at promoting and mediating. They value people and relationships, and might succeed best in partnership. Relating as equals is important to them. The arts, architecture, law, math, mediating, and politics are possible avenues for success. Use of charm and grace to reach goals.",
         createdAt: new Date(),
         updatedAt: new Date()
       },  {
         planet_title: "Jupiter in Scorpio",
         planet_id: 6,
         planet_sign_id: 8,
-        planet_sign_description: "TEXT",
+        planet_sign_description: "Attracts the most good fortune when they put their “all” into a project or undertaking, and use their magnetic powers to heal others. Enthusiastic for deeper studies and meanings, all that is taboo or mysterious, psychology. Values decisiveness, intensity, willpower, commitment, and strength. Very strong problem solver who cuts to the chase. Science and research may be prosperous avenues.",
         createdAt: new Date(),
         updatedAt: new Date()
       },  {
         planet_title: "Jupiter in Sagittarius",
         planet_id: 6,
         planet_sign_id: 9,
-        planet_sign_description: "TEXT",
+        planet_sign_description: "Attracts the most good fortune when they are open-handed and generous, tolerant, and practice what they preach. Can be inspirational, and find success in travel, education, teaching, sports, publishing, and foreign cultures. Very philosophical, forward-looking, and enthusiastic. Has strong morals. Strongly values freedom of movement and expression.",
         createdAt: new Date(),
         updatedAt: new Date()
       },  {
         planet_title: "Jupiter in Capricorn",
         planet_id: 6,
         planet_sign_id: 10,
-        planet_sign_description: "TEXT",
+        planet_sign_description: "Attracts the most good fortune when they organize and direct, conduct themselves with integrity, are ethical and mature. Values the long term, achievement, responsibility, and manifestation. Succeeds through resourcefulness and avoiding activities that waste time, energy, or resources. Good at streamlining. Position or status is important to them.",
         createdAt: new Date(),
         updatedAt: new Date()
       },  {
         planet_title: "Jupiter in Aquarius",
         planet_id: 6,
         planet_sign_id: 11,
-        planet_sign_description: "TEXT",
+        planet_sign_description: "Attracts the most good fortune when they are tolerant and fair, inventive, impartial, and cooperative. Values people and personal freedom most. Wants to show a unique perspective or original and unique skills and talents. Open to new methods and progress. Great tolerance and humanitarianism.",
         createdAt: new Date(),
         updatedAt: new Date()
       },  {
         planet_title: "Jupiter in Pisces",
         planet_id: 6,
         planet_sign_id: 12,
-        planet_sign_description: "TEXT",
+        planet_sign_description: "Attracts the most good fortune when they are charitable, tender, devoted, compassionate, looking out for the underdog, and giving generously. Values compassion and charity, and is motivated by a universal vision. Peaceful personal philosophy.  Faith in the goodness of life brings rewards.",
         createdAt: new Date(),
         updatedAt: new Date()
       },  {
