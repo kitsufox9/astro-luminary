@@ -3,15 +3,6 @@
 module.exports = {
   up: (queryInterface, Sequelize) => {
       return queryInterface.bulkInsert('AspectTransits', [{
-        transit_aspect_title: "STRING",
-        transit_aspect_planet_id: INTEGER,
-        transit_aspect_id: INTEGER,
-        transit_to_planet: "STRING",
-        transit_orb: INTEGER,
-        transit_aspect_description: "TEXT",
-        createdAt: new Date(),
-        updatedAt: new Date()
-      }, {
         transit_aspect_title: "Sun conjunct Sun",
         transit_aspect_planet_id: 1,
         transit_aspect_id: 1,
